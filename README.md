@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A Web Application To Educate Teenagers On Financial Literacy<br>👯 I’m looking to collaborate on future projects together :)<br>🤝 I’m looking for help with implementing AI Features into my projects!<br>🌱 I’m currently learning React and Node.js!<br>💬 Ask me about anything!!<br>⚡ Fun fact: I love an active lifestyle as it keeps me fit!
+🔭 I’m currently working on An E-Commerce Web App for a Cookie Shop!<br>👯 I’m looking to collaborate on future projects together :)<br>🤝 I’m looking for help with implementing AI Features into my projects!<br>🌱 I’m currently learning React and Node.js!<br>💬 Ask me about anything!!<br>⚡ Fun fact: I love an active lifestyle as it keeps me fit!
 
 
 # 💻 Tech Stack:
